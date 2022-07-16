@@ -6,8 +6,8 @@
 #include <stdlib.h>
 
 #ifdef __cplusplus
-extern "C"
-{
+//extern "C"
+//{
 #endif
 
 //define from vl53lx_register_map.h
@@ -8578,5 +8578,5 @@ typedef struct {
 
 
 #ifdef __cplusplus
-}
+//}
 #endif
